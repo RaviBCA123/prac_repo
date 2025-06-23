@@ -1,1 +1,2 @@
 This is first text i added in file
+This is second text i added in feature2 branch

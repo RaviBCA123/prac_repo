@@ -2,5 +2,4 @@ This is file2
 <<<<<<< HEAD
 And i m here
 =======
-enjoyyy the moment
->>>>>>> a256dcb17b5bc0607f73548b5f588ec1ce824a2e
+
